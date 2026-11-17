@@ -1,0 +1,16 @@
+# Mediu virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor și sistem
+.vscode/
+.idea/
+Thumbs.db
+
+# Loguri și secrete
+*.log
+.env
